@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mohsen2hasani.github.io
+Token: fbf0bb98482aa12264a3c35abd4f64fc408e55a155f40b4773fdeba63ab9837b
